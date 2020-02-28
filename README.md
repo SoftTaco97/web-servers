@@ -18,7 +18,7 @@ Each server will listen for HTTP requests on port `8080` of your local machine, 
 
 The website files are currently being hosted in the `static` folder. 
 
-Other folders outside of `static` are language specific web servers for handling requests and server the files in the `static` folder. 
+Other folders outside of `static` are language specific web servers for handling requests and serving the files in the `static` folder. 
 
 In order to spin up a server, change directories into the server folder (`nodejs`, `python`, `etc`) and run the commands listed in the respective folder's `README` file.
 
